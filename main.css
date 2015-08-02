@@ -104,6 +104,15 @@ body {
   margin-top: .01em;
 }
 
+.sub-category-headers{
+  color: #58585B;
+  font-size: .9em;
+  letter-spacing: 2px;
+  margin-left: 2%;
+  margin-top: 3em;
+  margin-bottom: .1em;
+}
+
 hr {
   border: 1px dotted #A7A9AB;
   border-style: none none dotted; 
