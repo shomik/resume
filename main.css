@@ -13,7 +13,7 @@ body {
 }
 
 .contact-information, .links-container {
-  color: #808284;
+  color: #222;
   display: inline-block;
   font-size: .8em;
   letter-spacing: 1px;
@@ -74,7 +74,7 @@ body {
 }
 
 .category-details {
-  color: #808284;
+  color: #222;
   font-size: .9em;
   font-style: italic;
   line-height: 1.4em;
@@ -85,7 +85,7 @@ body {
 }
 
 .category-description-main {
-  color: #808284;
+  color: #222;
   font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
@@ -95,7 +95,7 @@ body {
 }
 
 .category-description {
-  color: #808284;
+  color: #222;
   font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
